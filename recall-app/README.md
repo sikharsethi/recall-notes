@@ -13,7 +13,7 @@ A fast, keyboard-friendly notes app for students. Capture notes quickly, find th
 ![Vanilla JavaScript](https://img.shields.io/badge/JavaScript-vanilla-f7df1e.svg)
 ![Data](https://img.shields.io/badge/data-stays%20in%20your%20browser-ff6b8b.svg)
 
-**[Live demo](https://YOUR-SITE.vercel.app)** · [Report a bug](https://github.com/YOUR-USERNAME/recall/issues) · [Request a feature](https://github.com/YOUR-USERNAME/recall/issues)
+**[Live demo](https://recall-notes-virid.vercel.app/)** · [Report a bug](https://github.com/sikharsethi/recall/issues) · [Request a feature](https://github.com/sikharsethi/recall/issues)
 
 </div>
 
